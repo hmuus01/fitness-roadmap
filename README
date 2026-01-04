@@ -1,0 +1,25 @@
+1on1 Fitness Marketplace: 10-Week Launch Roadmap
+
+This repository hosts an interactive single-page application (SPA) detailing the 10-week business and development roadmap for the 1on1 Fitness Marketplace project.
+
+🚀 How to View
+
+Since this is a single, self-contained HTML file, you can view the live application easily:
+
+Directly via GitHub Pages: If hosted on GitHub Pages, the application will be available at your public URL (e.g., https://[username].github.io/[repository-name]/).
+
+Locally: Download the index.html file and open it directly in any web browser.
+
+📋 Roadmap Structure
+
+The plan is divided into four main phases:
+
+Phase 1: Foundations (Core technical setup and user profiles)
+
+Phase 2: Supply (Venue and coach listing/availability tools)
+
+Phase 3: Demand (Search, booking, and payment integration)
+
+Phase 4: Launch (Retention features, monitoring, and final deployment)
+
+The interactive dashboard allows you to track progress against key milestones and visualize the project's timeline and complexity.
